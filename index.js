@@ -10,7 +10,7 @@ const app = express();
 
 app.use(cors(
   {
-    origin: `http://localhost:5173`
+    origin: `https://youtube-clone-youtube-data-api-9bdd89.netlify.app`
   }
 ));
 
